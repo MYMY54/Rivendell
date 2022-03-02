@@ -1,7 +1,4 @@
-COMS6998 HW1 Dining Concierge Assistant
-
-ml4687 Meiyou Liu
-xc2551 Xiaoyue Chen
+Dining Concierge Assistant
 
 s3 frontend url:
 http://restaurantrecommend.s3-website-us-east-1.amazonaws.com
